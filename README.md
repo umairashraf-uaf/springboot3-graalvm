@@ -1,4 +1,4 @@
-Install GraalVM 25 locally and set the paths:
+Install GraalVM 25 https://www.graalvm.org/downloads/ locally and set the paths:
 
   export JAVA_HOME=/Library/Java/JavaVirtualMachines/graalvm-jdk-25+37.1/Contents/Home
   export PATH=/Library/Java/JavaVirtualMachines/graalvm-jdk-25+37.1/Contents/Home/bin:$PATH
